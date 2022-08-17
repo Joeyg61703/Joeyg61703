@@ -5,7 +5,7 @@ Full-Stack Developer
 --------------------
 
 * 🌍  I'm based in New Jersey
-* 🖥️  See my portfolio at [https://josephgibis.com/](http://josephgibis.netlify.app/)
+* 🖥️  See my portfolio at [https://josephgibis.com/](http://josephgibis.com/)
 * ✉️  You can contact me at [JGibis61703@gmail.com](mailto:JGibis61703@gmail.com)
 
 ### Skills
