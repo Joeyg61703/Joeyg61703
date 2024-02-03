@@ -34,12 +34,3 @@ Full-Stack Developer
 
 <p align="left"> <a href="https://www.github.com/Joeyg61703" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/joseph-gibis/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/JustaWheezer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Joeyg61703"><img src="https://github-readme-stats.vercel.app/api?username=Joeyg61703&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Joeyg61703's GitHub stats" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Joeyg61703/MovieGroups" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Joeyg61703&repo=MovieGroups&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Joeyg61703/react-tailwind-template" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Joeyg61703&repo=react-tailwind-template&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
